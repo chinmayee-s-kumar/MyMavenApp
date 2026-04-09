@@ -15,7 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-   <!-- Build: Configuring plugins and build settings -->
+  <!-- Build: Configuring plugins and build settings -->
 <build>
 <plugins>
 <!-- Example: Maven Compiler Plugin to compile Java code -->
